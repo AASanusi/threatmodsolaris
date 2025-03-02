@@ -14,6 +14,9 @@ This is a Threat Modelling workshop for CareConnect 360 app in Solaris. This wor
 
 ## HLD and Architecture
 
+![Screenshot of CC360 HLD](media/CC360%20HLD.png)
+![Screenshot of CC360 DFD](media/CareConnect360_DFD.png)
+
 ## Summary of Scenarios
 
 ## Case Studies
